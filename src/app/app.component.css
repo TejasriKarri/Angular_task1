@@ -1,0 +1,18 @@
+.app{
+padding: 1%;
+
+}
+.box1{
+    float: right;
+    width: 20%;
+    position: absolute;
+    left:30%;
+    top:29%;
+  
+}
+.box2{
+    width: 20%;
+    position: absolute;
+    top:29%;
+    
+}
